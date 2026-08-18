@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://dalekta.id">
-  <img src="https://avatars.githubusercontent.com/Mhmdfikran" width="112" alt="Mhmd Fikran" />
+  <img src="https://avatars.githubusercontent.com/Mhmdfikrann" width="112" alt="Mhmd Fikran" />
 </a>
 
 # Mhmd Fikran
@@ -12,7 +12,7 @@ I build practical systems for Indonesian businesses: tools that connect ads, Wha
 
 [![Dalekta](https://img.shields.io/badge/dalekta.id-101010?style=for-the-badge&logo=googlechrome&logoColor=22C55E)](https://dalekta.id)
 [![Lagaligo](https://img.shields.io/badge/lagaligo.dev-101010?style=for-the-badge&logo=github&logoColor=F59E0B)](https://lagaligo.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Mhmdfikran)
+[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Mhmdfikrann)
 
 </div>
 
@@ -115,6 +115,6 @@ The best product is not the one with the most features. It is the one that makes
 
 **Dalekta for revenue attribution. Lagaligo for agent engineering.**
 
-[dalekta.id](https://dalekta.id) · [lagaligo.dev](https://lagaligo.dev) · [github.com/Mhmdfikran](https://github.com/Mhmdfikran)
+[dalekta.id](https://dalekta.id) · [lagaligo.dev](https://lagaligo.dev) · [github.com/Mhmdfikrann](https://github.com/Mhmdfikrann)
 
 </div>
